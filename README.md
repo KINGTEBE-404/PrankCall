@@ -14,4 +14,4 @@ $ git clone https://github.com/KINGTEBE-404/PrankCall
 $ cd PrankCall
 $ python call.py
 ```
-> Get Token [clik here](https://cutt.ly/cksy2hk)
+> Get Token [clik here](https://cutt.ly/UkssCs4)
