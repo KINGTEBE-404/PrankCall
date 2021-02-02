@@ -1,7 +1,7 @@
 # PrankCall
 ```
 Ini tools PrankCall buat ngeprank teman | penipu atau mantan
-Khusus buat lu kalo yg tersakiti :v
+Khusus buat lu yg tersakiti :v
 ```
 
 # Usage
